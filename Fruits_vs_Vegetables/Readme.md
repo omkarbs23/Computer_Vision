@@ -15,5 +15,5 @@ This dataset comprises a total of 36 categories of Fruits & Vegetables
 
 
 
-<hr><b> Dataset Url :- </b> https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition 
+<hr><b> Dataset URL :- </b> https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition 
 <hr><b> Note :- </b> I have set the hyperparameter "epoch" to 5 for demonstration purposes. However, you can adjust this parameter to meet your specific needs.
