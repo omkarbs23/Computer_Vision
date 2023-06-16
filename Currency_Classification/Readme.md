@@ -15,8 +15,5 @@ This dataset comprises a total of seven categories of Indian currency notes.
 - 5 =&gt; 500 Rupees Note
 - 6 =&gt; 2000 Rupees Note
 
-Dataset URL :- https://www.kaggle.com/datasets/omkarshinde23/indian-currency-notes 
-
-<hr>
-
-<b> Note :- </b> I have set the hyperparameter "epoch" to 3 for demonstration purposes. However, you can adjust this parameter to meet your specific needs.
+<hr><b> Dataset Url :- </b>https://www.kaggle.com/datasets/omkarshinde23/indian-currency-notes 
+<hr><b> Note :- </b> I have set the hyperparameter "epoch" to 3 for demonstration purposes. However, you can adjust this parameter to meet your specific needs.
